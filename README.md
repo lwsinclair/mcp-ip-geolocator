@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/tedlikeskix-mcp-ip-geolocator-badge.png)](https://mseep.ai/app/tedlikeskix-mcp-ip-geolocator)
+
 # MCP IP Geolocation Server
 
 A Model Context Protocol (MCP) server that provides IP geolocation services via IP-API.com. Free to use, no API key required.
